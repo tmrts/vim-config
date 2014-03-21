@@ -56,7 +56,7 @@
 		Bundle 'mattn/gist-vim'
 		Bundle 'scrooloose/nerdcommenter'
 		Bundle 'godlygeek/tabular'
-        Bundle 'Lokaltog/powerline', {'rtp':'/powerline/bindings/vim'}
+        	Bundle 'Lokaltog/powerline', {'rtp':'/powerline/bindings/vim'}
 
     " }
 
